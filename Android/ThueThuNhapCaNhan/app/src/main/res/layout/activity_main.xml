@@ -47,16 +47,20 @@
         android:layout_marginTop="5dp">
 
         <EditText
-            android:layout_width="180dp"
-            android:layout_height="28dp"
-            android:background="@drawable/bg_vien3d"
-            android:gravity="center"/>
-        <EditText
+            android:id="@+id/edt_luong"
             android:layout_width="180dp"
             android:layout_height="28dp"
             android:background="@drawable/bg_vien3d"
             android:gravity="center"
-            android:layout_marginTop="18dp"/>
+            android:inputType="numberSigned"/>
+        <EditText
+            android:id="@+id/edt_nguoiPT"
+            android:layout_width="180dp"
+            android:layout_height="28dp"
+            android:background="@drawable/bg_vien3d"
+            android:gravity="center"
+            android:layout_marginTop="18dp"
+            android:inputType="numberSigned"/>
     </LinearLayout>
     <TextView
         android:id="@+id/title_child"
