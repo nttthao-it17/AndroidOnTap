@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DangKyThanhVien</string>
+
+    <string name="null_name">Tên không được bỏ trống!</string>
+    <string name="null_user">Username không được bỏ trống!</string>
+    <string name="null_pass">Password không được bỏ trống!</string>
+    <string name="null_date">Ngày sinh không được bỏ trống!</string>
+    <string name="er_pass">Password phải dài hơn 8 ký tự, phải có 1 ký tự thường, 1 ký tự hoa, 1 ký tự đặc biệt!</string>
+    <string name="er_passT">Password phải 1 ký tự thường!</string>
+    <string name="er_passH">Password phải 1 ký tự hoa!</string>
+    <string name="er_passdb">Password phải 1 ký tự đặc biệt!</string>
+    <string name="er_passN">Password phai 1 ký tự số!</string>
+    <string name="er_user">Username có khoảng trống hoặc ký tự đặc biệt!</string>
+    
+    <array name="child_spinner">
+        <item>Chọn...</item>
+        <item>Việt Nam</item>
+        <item>Anh</item>
+        <item>Pháp</item>
+        <item>Mĩ</item>
+        <item>Nhật</item>
+        <item>Italia</item>
+        <item>Tây Ban Nha</item>
+    </array>
+</resources>
