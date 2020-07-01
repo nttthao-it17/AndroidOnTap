@@ -34,7 +34,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="15dp"
             android:background="@drawable/bg_vien3d"
-            android:inputType="numberSigned"/>
+            android:inputType="number" />
     </LinearLayout>
     <LinearLayout
         android:layout_width="wrap_content"
@@ -53,7 +53,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="27dp"
             android:background="@drawable/bg_vien3d"
-            android:inputType="numberSigned"/>
+            android:inputType="number"/>
     </LinearLayout>
     <LinearLayout
         android:layout_width="wrap_content"
@@ -109,7 +109,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:layout_gravity="center"
-        android:text="20.1"
         android:textSize="28dp"
         android:textColor="#000"/>
     <TextView
@@ -122,15 +121,22 @@
         android:textColor="#2C3C98"
         android:textStyle="italic|bold"/>
     <TextView
-        android:id="@+id/tvNhanxet"
+        android:id="@+id/tvNhanxet1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:layout_gravity="center"
-        android:text="20.1\ngvghutfd"
-        android:textSize="28dp"
+        android:textSize="20dp"
         android:textColor="#000"
-        android:gravity="center"
-        android:lines="2"/>
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/tvNhanxet2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:gravity="center"/>
 
 </LinearLayout>
