@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TinhGiaXeLanBanh</string>
+
+    <string-array name="spinnerLoaiXe">
+        <item>Chọn...</item>
+        <item>Xe du lịch dưới 10 chỗ</item>
+        <item>Xe bán tải</item>
+        <item>Xe tải nhỏ</item>
+    </string-array>
+
+    <string-array name="spinnerDiaPhuong">
+        <item>Chọn...</item>
+        <item>TP Hồ Chí Minh</item>
+        <item>Đồng Nai</item>
+        <item>Bình Dương</item>
+        <item>Long An</item>
+        <item>Vũng Tàu</item>
+    </string-array>
+</resources>
