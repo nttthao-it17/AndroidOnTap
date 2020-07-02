@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VayTieuDung</string>
+
+    <array name="chidl_spinner">
+        <item>Chọn...</item>
+        <item>16%/năm</item>
+        <item>17%/năm</item>
+        <item>18%/năm</item>
+    </array>
+</resources>
