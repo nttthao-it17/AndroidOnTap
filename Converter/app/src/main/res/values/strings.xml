@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Converter</string>
+
+    <string-array name="str_arr">
+        <item>"VND"</item>
+        <item>"USD"</item>
+        <item>"EUR"</item>
+    </string-array>
+</resources>
